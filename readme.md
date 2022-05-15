@@ -1,2 +1,6 @@
 - GPD P2 MAX
-    - 
+    - BIOS Updete info , research 2022/05 .
+        - [google : GPD P2 MAX ファンの制御](https://www.google.com/search?q=GPD+P2+MAX+%E3%83%95%E3%82%A1%E3%83%B3%E3%81%AE%E5%88%B6%E5%BE%A1)
+            - https://yusukesakai.com/archives/1760
+            - https://blog.itokoichi.com/entry/2019/09/09/215828
+            - https://enchantress2009.blog.fc2.com/blog-entry-4249.html
