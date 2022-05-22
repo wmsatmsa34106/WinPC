@@ -4,3 +4,6 @@
             - https://yusukesakai.com/archives/1760
             - https://blog.itokoichi.com/entry/2019/09/09/215828
             - https://enchantress2009.blog.fc2.com/blog-entry-4249.html
+- MS-16R4
+    - bing|google : GF63 Thin 10SCXR-026JP SSD交換  
+    - 
